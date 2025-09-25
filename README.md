@@ -2,7 +2,7 @@
 
 Smart computer vision system to detect fire hydrants and determine whether they are blocked (e.g., by parked vehicles) using YOLO object detection and simple overlap logic.
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![YOLO](https://img.shields.io/badge/YOLO-v8-blue) ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB) ![License](https://img.shields.io/badge/license-MIT-lightgray)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![YOLO](https://img.shields.io/badge/YOLO-v8-blue) ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB)
 
 ---
 
@@ -143,7 +143,6 @@ Visualization helps calibrate thresholds for your camera angles and environment.
 ---
 
 ### 📝 License & Acknowledgements
-- MIT License – feel free to fork, adapt, and modify
 - Thanks to the Ultralytics team for YOLOv8
 - If you build on this, please credit the original authors and document enhancements
 
